@@ -826,6 +826,7 @@ backend/
 #### `main.py` - Application Entry Point
 **Purpose:** Initialize FastAPI app, register routers, configure middleware.
 
+
 **Why Separate?**
 - Entry point should be minimal
 - Easy to see app structure at a glance
